@@ -1,0 +1,5 @@
+mysql.host: localhost
+mysql.port: 3306
+mysql.database: serverdata
+mysql.user: user
+mysql.pw: password

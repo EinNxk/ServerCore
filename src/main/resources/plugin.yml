@@ -1,0 +1,11 @@
+name: ServerAPI
+version: '${project.version}'
+main: de.nikcraft.serverapi.ServerAPI
+api-version: '1.21'
+commands:
+  coins:
+  tokens:
+  playtime:
+  shop:
+  currency:
+    permission: ServerAPi.setCurrency
